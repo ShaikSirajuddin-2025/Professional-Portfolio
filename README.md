@@ -1,9 +1,9 @@
 # Professional Portfolio
 
-Welcome to my professional portfolio. Below you'll find a collection of my work, including detailed artifacts, a summary of my skills, and my unique value proposition. 
+Welcome to my professional portfolio. Below you'll find a collection of my work, including detailed artifacts, a summary of my skills, and my unique value proposition.
 
 ## About Me
-Hello! I'm [Your Name], a passionate professional in [Your Field, e.g., AI/ML, Data Science, etc.]. This portfolio showcases my expertise, key projects, and the value I bring to any potential role or collaboration.
+Hello! I'm **Shaik Sirajuddin**, a passionate student pursuing studies in **Data Science**. This portfolio showcases my expertise, key projects, and the value I bring to any potential role or collaboration.
 
 ## Sections
 
@@ -13,9 +13,8 @@ Hello! I'm [Your Name], a passionate professional in [Your Field, e.g., AI/ML, D
 
 ## Contact Information
 Feel free to reach out to me via:
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile URL]
-- GitHub: [Your GitHub Profile URL]
+- Email: [siraj.shaik8179@gmail.com](mailto:siraj.shaik8179@gmail.com)
+
 
 ---
 
