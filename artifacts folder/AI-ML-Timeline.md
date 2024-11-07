@@ -38,12 +38,7 @@ I chose this artifact because it highlights my research, communication, and tech
 ### Lessons Learned:
 The process of creating this artifact enhanced my ability to present technical information in an understandable format for a broader audience.
 
-## Feedback and Revisions
-### Feedback:
-Peer feedback suggested adding more specific examples of AI applications in various industries to make the timeline more relatable.
 
-### Revisions:
-Incorporated additional examples of AI applications to make the timeline more relevant and practical for business-focused audiences.
 
 ## References
 - AI and ML History, Encyclopedia of Technology.
