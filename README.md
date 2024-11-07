@@ -9,7 +9,7 @@ Hello! I'm **Shaik Sirajuddin**, a passionate student pursuing studies in **Data
 
 - [Professional Bio](bio/professional-bio.md): Learn more about my background and experience.
 - [Value Proposition](value-proposition/value-proposition.md): Find out what makes me unique and how I can contribute to your organization or project.
-- [Artifacts](Update AI-ML-Timeline.md): Explore my work samples and projects that demonstrate my skills and achievements.
+- [Artifacts](artifacts folder/Update AI-ML-Timeline.md): Explore my work samples and projects that demonstrate my skills and achievements.
 
 ## Contact Information
 Feel free to reach out to me via:
