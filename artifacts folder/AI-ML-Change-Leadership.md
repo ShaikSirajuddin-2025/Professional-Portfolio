@@ -1,5 +1,5 @@
 # Adapting to Change with Machine Learning: A Case Study
-
+![AI Chatbot Interaction](art1.png)
 ## Introduction
 This artifact focuses on the intersection of **Machine Learning (ML)** and **Change Leadership**, demonstrating how ML algorithms can be applied to adaptive learning and leadership strategies during organizational transformations. The case study highlights how machine learning principles support real-time decision-making and continuous adjustment to changing environments, making it an ideal solution for leading change in dynamic business landscapes. This artifact exemplifies the ability to leverage data-driven insights to help organizations respond to changing conditions, ensuring greater adaptability and agility throughout the change process.
 
