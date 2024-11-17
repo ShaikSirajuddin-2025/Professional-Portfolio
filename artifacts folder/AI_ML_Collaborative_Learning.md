@@ -1,5 +1,5 @@
 # **Artifact Title: Collaborative Problem-Solving with AI in Machine Learning Training**
-
+![AI Chatbot Interaction](art2.jpg)
 ## **Introduction:**
 This artifact reflects my engagement in an interactive learning experience where I partnered with a pre-trained chatbot to explore machine learning concepts, including supervised and unsupervised learning, reinforcement learning, and optimization algorithms. The objective was to deepen my understanding of these key topics through a collaborative, problem-solving approach that simulated a peer-to-peer learning environment.
 
