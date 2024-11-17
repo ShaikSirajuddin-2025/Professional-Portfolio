@@ -2,7 +2,7 @@
 
 ## Artifact Title
 **Enhancing Learning Through AI Chatbot Interactions**
- ![AI Chatbot Interaction](./images/A_visually_engaging_illustration_showing_a_person_.png)
+ ![AI Chatbot Interaction](Chatbot.webp)
 
 ## Introduction
 This artifact focuses on understanding the benefits of using AI-powered chatbots for individual learning experiences. It highlights how engaging with chatbots can enhance personalized learning, provide immediate feedback, and foster a supportive learning environment.
