@@ -13,19 +13,21 @@ The overarching objective was to create innovative AI-based solutions to solve r
 - **Education:** Personalize learning experiences using an adaptive platform powered by AI, fostering better educational outcomes.  
 
 ### **Process**  
-
+![AI Chatbot Interaction](Healthcare.jpg)
 #### **Healthcare**  
 1. **Problem Identification:** Chronic diseases often go undetected until late stages. The goal was to use data to predict risks early.  
 2. **Data Preparation:** Collected anonymized patient data, including demographics, medical history, and lab results.  
 3. **Model Development:** Built a predictive analytics model using Logistic Regression and Random Forest to identify high-risk patients.  
 4. **Deployment:** Packaged the model into a REST API for integration into existing electronic health records (EHR) systems, ensuring seamless use by healthcare providers.  
 
+![AI Chatbot Interaction](Retail.jpg)
 #### **Retail**  
 1. **Problem Identification:** Businesses struggle to understand customer feedback effectively due to the sheer volume of data.  
 2. **Data Collection:** Scraped customer reviews from e-commerce platforms and social media.  
 3. **Model Development:** Applied Natural Language Processing (NLP) techniques using pretrained BERT models to categorize customer sentiment into positive, negative, or neutral.  
 4. **Insights Generation:** Provided actionable recommendations, such as improving product features or addressing common complaints, to enhance customer satisfaction.  
 
+![AI Chatbot Interaction](Education.jpg)
 #### **Education**  
 1. **Problem Identification:** Traditional learning systems lack personalization, leading to disengaged students.  
 2. **Algorithm Design:** Developed an adaptive learning system using Reinforcement Learning algorithms to tailor content to individual student needs.  
