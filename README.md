@@ -3,7 +3,7 @@
 Welcome to my professional portfolio. Below you'll find a collection of my work, including detailed artifacts, a summary of my skills, and my unique value proposition.
 
 ## About Me
-Hello! I'm **Shaik Sirajuddin**, a passionate student pursuing studies in **Data Science**. This portfolio showcases my expertise, key projects, and the value I bring to any potential role or collaboration.
+Hello! I'm **Vinod Kumar Darapureddy**, a passionate student pursuing studies in **MS - COMPUTER INFO SYST - ARTIFICIAL INTELL SPEC**. This portfolio showcases my expertise, key projects, and the value I bring to any potential role or collaboration.
 
 ## Sections
 
@@ -14,7 +14,7 @@ Hello! I'm **Shaik Sirajuddin**, a passionate student pursuing studies in **Data
 
 ## Contact Information
 Feel free to reach out to me via:
-- Email: [siraj.shaik8179@gmail.com](mailto:siraj.shaik8179@gmail.com)
+- Email: [vinod.darapureddy@gmail.com](mailto:vinod.darapureddy@gmail.com)
 
 
 ---
