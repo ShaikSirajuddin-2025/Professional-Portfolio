@@ -77,4 +77,8 @@ The case study format also improved my ability to integrate **theoretical knowle
 **📌 Conclusion:**
 This artifact reflects my ability to leverage **Machine Learning for Change Leadership**, combining technical expertise with strategic decision-making. By integrating **real-time insights, adaptability, and business-centric applications**, it serves as a valuable resource for leaders navigating complex transformations.
 
-🚀 **Machine Learning + Leadership = Future of Business Transformation!** 🚀.
+🚀 **Machine Learning + Leadership = Future of Business Transformation!** 🚀
+
+## References 📚
+- Brynjolfsson, E., & McAfee, A. (2017). Machine, Platform, Crowd: Harnessing Our Digital Future. W. W. Norton & Company.y 📖
+- Mitchell, T. M. (1997). Machine Learning. McGraw-Hill. 📑
