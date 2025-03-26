@@ -84,11 +84,4 @@ This artifact reflects my ability to leverage **Machine Learning for Change Lead
 ### Example Portfolio Markdown (for Reference):
 Once this artifact is created, you can link it to your portfolio:
 
-```markdown
-## Professional Portfolio
 
-### Artifact 1: AI-ML-Timeline
-[View Artifact 1: AI-ML-Timeline](artifacts/AI-ML-Timeline.md)
-
-### Artifact 2: Adapting to Change with Machine Learning
-[View Artifact 2: Adapting to Change with Machine Learning](artifacts/AI-ML-Change-Leadership.md)
