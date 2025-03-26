@@ -78,10 +78,3 @@ The case study format also improved my ability to integrate **theoretical knowle
 This artifact reflects my ability to leverage **Machine Learning for Change Leadership**, combining technical expertise with strategic decision-making. By integrating **real-time insights, adaptability, and business-centric applications**, it serves as a valuable resource for leaders navigating complex transformations.
 
 🚀 **Machine Learning + Leadership = Future of Business Transformation!** 🚀.
-
----
-
-### Example Portfolio Markdown (for Reference):
-Once this artifact is created, you can link it to your portfolio:
-
-
