@@ -2,6 +2,7 @@
 
 ## Artifact Title
 **Enhancing Learning Through AI Chatbot Interactions**
+
  ![AI Chatbot Interaction](Chatbot.webp)
 
 
