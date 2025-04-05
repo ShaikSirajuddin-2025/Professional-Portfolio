@@ -52,3 +52,12 @@ I chose this artifact because it embodies a modern approach to learning that com
 During this experience, I learned the importance of interactive learning and how AI can be used as a valuable tool for reinforcing knowledge 🧠. The immediate feedback and dynamic interaction helped me identify areas where my understanding could be improved and provided the opportunity to explore these concepts further 🔍. This process has strengthened my critical thinking skills, and I now feel more confident in applying machine learning techniques to real-world problems 💪.
 
 ---
+
+## 📚 References:
+
+- Géron, A. (2019). *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* (2nd ed.). O'Reilly Media.  
+- Sutton, R. S., & Barto, A. G. (2018). *Reinforcement Learning: An Introduction* (2nd ed.). MIT Press.  
+- Russell, S., & Norvig, P. (2021). *Artificial Intelligence: A Modern Approach* (4th ed.). Pearson.  
+- Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.  
+- IBM Cloud Education. (2020). [Supervised vs. Unsupervised Learning](https://www.ibm.com/cloud/learn/supervised-vs-unsupervised-learning)  
+- Google Developers. (n.d.). [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)  
