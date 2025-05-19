@@ -2,20 +2,22 @@
 
 # 📊 Visual Framework of Machine Learning Algorithms
 <p align="center">
-  <img src="ML1.jpg" alt="Visual Map of ML Algorithms" width="800"/>
+  <img src="m1.jpg" alt="Visual Map of ML Algorithms" width="1000"/>
 </p>
-## 🧩 Introduction
+🧩 Introduction
 This artifact is a visual and conceptual representation of widely used machine learning (ML) algorithms across core AI application areas including tabular data, computer vision, natural language processing (NLP), and generative AI. It serves both as a learning reference and a professional portfolio piece.
 
-## 📝 Description
+📝 Description
 The infographic illustrates 8–10 key machine learning algorithms, categorized by learning type—Supervised and Unsupervised—and aligned with their primary domains of application. It visually connects each algorithm with real-world use cases, brief descriptions, and classification to facilitate intuitive understanding.
 
-## 🎯 Objective
+🎯 Objective
 - To identify and organize essential ML algorithms by type and domain.
 - To create a professional-quality infographic for portfolio showcasing.
 - To improve algorithm selection understanding for practical AI/ML problem-solving.
-
-## ⚙️ Algorithms Included 
+<p align="center">
+  <img src="m2.jpg" alt="Visual Map of ML Algorithms" width="1000"/>
+</p>
+⚙️ Algorithms Included 
 - Decision Trees  
 - K-Nearest Neighbors (KNN)  
 - Support Vector Machines (SVM)  
@@ -25,10 +27,16 @@ The infographic illustrates 8–10 key machine learning algorithms, categorized 
 - Recurrent Neural Networks (RNNs)  
 - Transformer Models  
 - Variational Autoencoders (VAEs)  
-- Generative Adversarial Networks (GANs)  
+- Generative Adversarial Networks (GANs)
+<p align="center">
+  <img src="m3.jpg" alt="Visual Map of ML Algorithms" width="1000"/>
+</p>
 
 ## 🖼️ Visual Map Image
 The image above represents a comprehensive overview connecting each algorithm to its core learning type (Supervised/Unsupervised) and application domain (Tabular Data, Computer Vision, NLP, and Generative AI).
+<p align="center">
+  <img src="m4.jpg" alt="Visual Map of ML Algorithms" width="1000"/>
+</p>
 
 ## 🛠️ Tools and Technologies Used
 - **Canva** – for infographic design  
